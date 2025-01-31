@@ -4,7 +4,7 @@
 
   ## Description
 
-  README Generator is a command-line tool which uses Node.js to take user input and use it to generate a professional README.md document for your repository. The README you're reading right now was generated and then edited using this very tool.
+  README Generator is a command-line tool which uses Node.js to take user input and use it to generate a professional README.md document for your repository. The README you're reading right now was generated using this very tool, and was then edited.
 
   ## Table of Contents
 

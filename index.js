@@ -45,7 +45,7 @@ function inquire() {
             type: 'list',
             name: 'license',
             choices: [
-                'Apache License 2.0', 'GNU General Public License 3.0', 'MIT License', 'BSD 2-Clause License', 'BSD 3-Clause License', 'Creative Commons Zero 1.0 Universal',
+                'Apache License 2.0', 'GNU General Public License 3.0', 'MIT License', 'BSD 2-Clause License', 'BSD 3-Clause License', 'Creative Commons Zero 1.0 Universal License',
                 'Eclipse Public License', 'Mozilla Public License 2.0'
             ],
             message: questions[6],

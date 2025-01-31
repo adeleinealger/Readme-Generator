@@ -15,6 +15,7 @@
   ## Usage
 
   Run index.js in a terminal using Node.js. README Generator will ask you several questions, and then do the rest for you, outputting the generated document to README.md. Feel free to manually edit the generated README further as you see fit.
+  Head to [this link](https://drive.google.com/drive/folders/16OKb677IFp81mJrWjH9O1Hqhf7ObcDBY?usp=sharing) for a video walkthrough and a sample README made using this tool.
 
   ## Questions
 
